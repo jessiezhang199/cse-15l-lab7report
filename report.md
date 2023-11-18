@@ -1,7 +1,7 @@
 ## Log into ieng6
 I login in to my ieng6 account by typing 'ssh ' and <Ctrl>v to paste my ieng6 address and then <enter> to run the command.
 ### code
-login in to ieng^
+login in to ieng6 account
 `ssh<space><Ctrl>v`
 
 ![image](ssh.png)
